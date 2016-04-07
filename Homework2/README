@@ -1,0 +1,10 @@
+Name : Akanksha Bansal
+UT EID : ab45563 
+
+Code includes files : 
+addPlot : method  with code to create plots of the sound waves
+correlations : method with code to measure the acuracy between the source and recovered signals using corelation between the signals 
+gradient : method for gradient decent 
+icaFull : File which was changed for various tests. 
+         The code annealing has been commented for time being. 
+
